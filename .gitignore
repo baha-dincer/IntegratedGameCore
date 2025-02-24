@@ -1,0 +1,28 @@
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Visual Studio
+.vs/
+.vs2019/
+.vs2017/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]Release/
+[Dd]ReleasePublic/
+x64/
+x86/
+
+# Node.js
+node_modules/
+
+# Log files
+*.log
